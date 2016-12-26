@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ginov\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\ginov\Downloads\1\AndroidStartServiceOnBootExample\AndroidAutoStartUp\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_1a5c914f173b4f3005a4da5dc448fb99da66736a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ginov\Downloads\1\AndroidStartServiceOnBootExample\AndroidAutoStartUp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a309ae93fefb6fda57f8fa18a5e53ea7a3f3b715">
+        <dex dex="C:\Users\ginov\Downloads\1\AndroidStartServiceOnBootExample\AndroidAutoStartUp\app\build\intermediates\pre-dexed\debug\instant-run_343ae49c63d9cf98437700fce4ddbc268e24e92e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ginov\Downloads\1\AndroidStartServiceOnBootExample\AndroidAutoStartUp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2e86e18e30abd63ddac07535dee7e796945a9b84">
+        <dex dex="C:\Users\ginov\Downloads\1\AndroidStartServiceOnBootExample\AndroidAutoStartUp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_97a565a86e86226e55ddd3c44f982f97f3c5843b.jar" />
+    </item>
+
+</items>
